@@ -1,0 +1,8 @@
+
+entity Consumer {
+	id Long,
+    creationDate LocalDateTime,
+    updateDate LocalDateTime,
+    procedura String,
+    enabled Boolean
+}
